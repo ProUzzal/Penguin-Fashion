@@ -1,0 +1,26 @@
+body{
+    font-family: 'Merriweather', serif;;
+}
+img{
+    width: 16rem;
+}
+.my-nav{
+    margin:0px 20px;
+}
+.card-image-style{
+    height: 60vh;
+    object-fit: contain;
+    width: 100%;
+    padding: 20px;
+}
+.card{
+    border:none;
+}
+.border-radius{
+    border-radius: 15px;
+}
+.button-style{
+    background-color: rgba(164, 188, 70, 1);
+    color: white;
+font-weight: 600;
+}
