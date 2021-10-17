@@ -1,5 +1,6 @@
 body{
-    font-family: 'Merriweather', serif;;
+    font-family: 'Merriweather', serif;
+    scroll-behavior: smooth;
 }
 img{
     width: 16rem;
@@ -20,7 +21,22 @@ img{
     border-radius: 15px;
 }
 .button-style{
-    background-color: rgba(164, 188, 70, 1);
+    background-color: #8EA825;
     color: white;
-font-weight: 600;
+    /* font-weight: 600; */
+    padding: .8rem 1.2rem;
+    font-size: 12px;
+    border-radius: 14px;
+    font-weight: lighter;
 }
+
+/* .container {
+  padding: 0px;
+}
+
+nav.navbar {
+  width: inherit;
+  top: 0%;
+  left: 50%;
+  transform: translateX(-50%);
+} */
