@@ -40,3 +40,10 @@ nav.navbar {
   left: 50%;
   transform: translateX(-50%);
 } */
+
+.social{
+    transition: 2s;
+}
+.social:hover{
+    transform: rotate(360deg);
+}
